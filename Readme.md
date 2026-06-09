@@ -299,12 +299,5 @@ AI Intern @ Well Mind
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abeera-ahmad-a26983363/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/abeeraahmad666-ship-it)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 <p align="center">Made with ❤️ for healthcare integrity — detecting fraud, protecting Medicare.</p>
